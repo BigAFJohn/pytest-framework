@@ -25,6 +25,9 @@ jobs:
         pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Export API Key to .env
+      run: echo "REQRES_API_KEY=${{ secrets.REQRES_API_KEY }}" > .env
+
     - name: Run API Tests with Allure
       run: |
         source venv/bin/activate
