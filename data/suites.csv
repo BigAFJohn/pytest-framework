@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","170","test_update_user","tests","Thu Jun 26 11:03:26 UTC 2025","passed","Thu Jun 26 11:03:26 UTC 2025","","test_update","",""
+"","39","test_get_users_list","tests","Thu Jun 26 11:03:26 UTC 2025","passed","Thu Jun 26 11:03:26 UTC 2025","","test_users","",""
+"","165","test_login_missing_password","tests","Thu Jun 26 11:03:25 UTC 2025","passed","Thu Jun 26 11:03:26 UTC 2025","","test_negetive","",""
+"","3233","test_delayed_response","tests","Thu Jun 26 11:03:22 UTC 2025","passed","Thu Jun 26 11:03:25 UTC 2025","","test_delay","",""
+"","163","test_successful_login","tests","Thu Jun 26 11:03:25 UTC 2025","passed","Thu Jun 26 11:03:25 UTC 2025","","test_login","",""
+"","214","test_delete_user","tests","Thu Jun 26 11:03:25 UTC 2025","passed","Thu Jun 26 11:03:25 UTC 2025","","test_delete","",""
+"","200","test_user_not_found","tests","Thu Jun 26 11:03:26 UTC 2025","passed","Thu Jun 26 11:03:26 UTC 2025","","test_negetive","",""
