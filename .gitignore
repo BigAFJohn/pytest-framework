@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# pytest
+.pytest_cache/
+.cache/
+
+# Allure test results
+allure-results/
+
+# IDE/editor folders
+.vscode/
+*.swp
+.DS_Store
+
+
